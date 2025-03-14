@@ -14,4 +14,6 @@ root@1f85ba5f4343:/var/www# composer install
 root@1f85ba5f4343:/var/www# cp .env.example .env
 root@1f85ba5f4343:/var/www#  exit
 
+root@8be88fd1ca20:/var/www#  php artisan make:controller ContactController
+
 
